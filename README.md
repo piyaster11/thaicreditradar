@@ -21,7 +21,7 @@ pip install pytrends
 python3 refresh/pull_trends.py          # add --force to re-pull words already saved
 python3 refresh/make_js.py              # writes data/trends.js used by the page
 ```
-Google rate-limits requests: the script waits ~45 s between words and 5 min after a "429 too many requests", saves after every word, and skips words already saved. A full pull takes 30–60+ minutes; if Google keeps refusing, wait a few hours or try another network. `refresh/loop.sh` keeps retrying for you. Nothing is scheduled.
+Google rate-limits requests: the script waits ~45 s between words and 5 min after a "429 too many requests", saves after every word, and skips words already saved. A full pull takes 30–60+ minutes; if Google keeps refusing, wait a few hours or try another network. `refresh/loop.sh` keeps retrying for you. Nothing is scheduled. You can also run the **Refresh Google Trends (manual)** workflow from the repo's Actions tab; it pulls on GitHub's machines and commits the new data.
 
 | File | What |
 |---|---|

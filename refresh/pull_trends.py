@@ -21,10 +21,10 @@ def call(fn, tries=2):
         try:
             return fn()
         except Exception as e:
-            print("  retry", i, repr(e)[:90], flush=True); time.sleep(300)
+            print("  retry", i, repr(e)[:90], flush=True); time.sleep(int(__import__("os").environ.get("RETRY_WAIT", "300")))
     return None
 def main(force=False):
-    d = load()
+    d = load(); fails = 0; maxf = int(__import__("os").environ.get("MAX_FAILS", "4"))
     for key, theme, word, lang, label, label_th in TERMS:
         if key in d["items"] and not force:
             continue
@@ -34,6 +34,10 @@ def main(force=False):
             py.build_payload([word], timeframe=TF, geo=GEO)
             return py.interest_over_time()
         df = call(f)
+        if df is None:
+            fails += 1
+            if fails >= maxf: print("stopping: Google keeps refusing (429). Try again later."); break
+        else: fails = 0
         if df is None or df.empty:
             print("  no data for", key)
             if df is not None: d.setdefault("empty", {})[key] = word; save(d)
