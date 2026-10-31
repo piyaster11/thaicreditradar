@@ -53,7 +53,7 @@ function heat(){
  const months=an(have[0].key).months.map(m=>m[0]);
  const hdr=`<tr><th></th>${months.map(m=>`<th>${m.slice(5)==='01'?m.slice(0,4):''}</th>`).join('')}</tr>`;
  let rows='';
- TH.forEach(th=>{const ts=terms.filter(t=>t.theme===th.id);rows+=`<tr class="th"><td class="lab" style="color:${th.col}">${th.icon} ${L(th.en,th.th)}</td></tr>`;
+ TH.forEach(th=>{const ts=terms.filter(t=>t.theme===th.id);rows+=`<tr class="th"><td colspan="30" style="color:${th.col};white-space:nowrap">${th.icon} ${L(th.en,th.th)}</td></tr>`;
   ts.forEach(t=>{const a=an(t.key);if(!a){rows+=`<tr><td class="lab" title="${esc(t.word)}">${esc(t.word)}</td><td colspan="${months.length}" class="note" style="padding-left:6px">${L('not available','ไม่มีข้อมูล')}</td></tr>`;return}
    const mp=Object.fromEntries(a.months),mx=Math.max(...a.months.map(m=>m[1]),1);
    rows+=`<tr><td class="lab" data-k="${t.key}" title="${esc(nm(t))}">${esc(t.word)}</td>${months.map(m=>{const x=(mp[m]||0)/mx;return `<td class="c" title="${esc(t.word)} ${m}: ${Math.round(mp[m]||0)}" style="background:${th.col};opacity:${(0.06+0.94*x*x).toFixed(2)}"></td>`}).join('')}</tr>`})});
