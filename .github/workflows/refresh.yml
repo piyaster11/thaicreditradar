@@ -1,0 +1,25 @@
+name: Refresh Google Trends (manual)
+on:
+  workflow_dispatch:
+    inputs:
+      force:
+        description: "Re-pull words already saved (yes/no)"
+        default: "no"
+permissions:
+  contents: write
+jobs:
+  pull:
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: pip install pytrends
+      - run: python3 refresh/pull_trends.py ${{ inputs.force == 'yes' && '--force' || '' }}
+        env: { TZ: Asia/Bangkok }
+      - run: python3 refresh/make_js.py
+      - run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data && git commit -m "Refresh Google Trends data" && git push || echo "nothing new"
