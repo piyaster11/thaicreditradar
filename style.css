@@ -48,10 +48,11 @@ h2{font-size:22px;margin:0 0 4px;letter-spacing:-.01em}
 .why{display:grid;grid-template-columns:minmax(0,1.4fr) minmax(0,1fr);gap:14px;margin:0 0 14px}
 .why ul{margin:6px 0 0;padding-left:18px;font-size:13.5px}.why li{margin:2px 0}
 .heat{overflow-x:auto}
-.heat table{border-collapse:separate;border-spacing:2px;font-size:12px;min-width:860px;width:100%}
-.heat td.lab{white-space:nowrap;padding-right:8px;text-align:right;color:var(--ink);cursor:pointer;max-width:200px;overflow:hidden;text-overflow:ellipsis}
+.heat table{table-layout:fixed;border-collapse:separate;border-spacing:2px;font-size:12px;min-width:860px;width:100%}
+.heat td.lab{width:150px;white-space:nowrap;padding-right:8px;text-align:right;color:var(--ink);cursor:pointer;max-width:200px;overflow:hidden;text-overflow:ellipsis}
 .heat td.c{height:16px;border-radius:3px;min-width:8px}
-.heat th{font-weight:400;color:var(--faint);font-size:11px;text-align:left}
+.heat th:first-child{width:150px}
+.heat th{overflow:visible;white-space:nowrap;font-weight:400;color:var(--faint);font-size:11px;text-align:left}
 .heat tr.th td{padding-top:10px;font-weight:650;font-size:12.5px}
 .movers{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px}
 .mv{display:flex;justify-content:space-between;align-items:center;padding:7px 0;border-top:1px solid var(--line);gap:10px;cursor:pointer}
