@@ -1,4 +1,4 @@
-/* PREVIEW: Thai Credit Risk headlines panel (Bloomberg-style). Data: data/credit_news.js */
+/* Thai Credit Risk headlines panel (Bloomberg-style). Data: data/credit_news.js */
 (function(){
 const css=`#crnews{background:var(--card);color:var(--ink);border:1px solid var(--line);border-left:4px solid var(--dn);border-radius:var(--r);padding:14px 16px;margin:18px 0 6px}
 #crnews h2{margin:0 0 6px;display:flex;justify-content:space-between;align-items:center;gap:10px;flex-wrap:wrap;font-size:13px;letter-spacing:.08em;text-transform:uppercase}
