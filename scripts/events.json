@@ -1,0 +1,5 @@
+[
+ {"id":"covid","en":"COVID-19 crash (SET circuit breakers 12–13 & 23 Mar 2020)","th":"วิกฤตโควิด-19 (SET ใช้ Circuit Breaker 12–13 และ 23 มี.ค. 2563)","start":"2020-02-20","end":"2020-04-30","src":"https://www.bangkokpost.com/business/general/1877424/thai-stocks-slide-most-in-11-years","src2":"https://www.nationthailand.com/business/30383997"},
+ {"id":"stark","en":"STARK bond default & accounting fraud (Jun–Jul 2023)","th":"STARK ผิดนัดหุ้นกู้และตกแต่งบัญชี (มิ.ย.–ก.ค. 2566)","start":"2023-06-01","end":"2023-07-31","src":"https://www.bangkokpost.com/business/general/2596453/troubles-mount-for-thai-firm-stark-hit-by-accounting-scandal-default","src2":"https://www.dsi.go.th/en/Detail/dccaff3830658725b0d7b26120e2e341"},
+ {"id":"jkn","en":"JKN bond default (1 Sep 2023) → rehabilitation petition (8 Nov 2023)","th":"JKN ผิดนัดหุ้นกู้ (1 ก.ย. 2566) → ยื่นฟื้นฟูกิจการ (8 พ.ย. 2566)","start":"2023-09-01","end":"2023-11-30","src":"https://weblink.set.or.th/dat/news/202311/1327NWS091120230854490265E.pdf","src2":"https://www.thaibma.or.th/document/MKTNews/JKN/MKTNEWS_JKN22112023ASPS.pdf"}
+]
