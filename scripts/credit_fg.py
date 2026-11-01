@@ -3,7 +3,7 @@
 Free sources only, no API keys. Each component = percentile of today's reading vs its own ~3-year history.
 If a source fails it is shown as n/a and the remaining components are re-weighted."""
 import json, csv, io, statistics as st, urllib.request, datetime as dt, os
-UA = {"User-Agent": "Mozilla/5.0 (credit-fg; github.com/piyaster11/thai-credit-trends)"}
+UA = {"User-Agent": "Mozilla/5.0 (credit-fg; github.com/piyaster11/thaicreditradar)"}
 BKK = dt.timezone(dt.timedelta(hours=7))
 def get(url):
     return urllib.request.urlopen(urllib.request.Request(url, headers=UA), timeout=40).read().decode()
@@ -84,7 +84,7 @@ def c_vix():
     s = last3y(yahoo("^VIX")); x = s[-1][1]
     return round(x, 2), "index", pct([v for _, v in s], x, False), s[-1][0], "VIX — US stock-market fear gauge", "VIX — ดัชนีความกลัวตลาดหุ้นสหรัฐฯ"
 
-add("trends", "Thai borrower-stress searches", "คำค้นลูกหนี้ตึงตัว", c_trends, "https://github.com/piyaster11/thai-credit-trends/blob/main/data/trends.json", 1.5)
+add("trends", "Thai borrower-stress searches", "คำค้นลูกหนี้ตึงตัว", c_trends, "https://github.com/piyaster11/thaicreditradar/blob/main/data/trends.json", 1.5)
 add("set", "SET index momentum", "โมเมนตัมดัชนี SET", c_set, YL("^SET.BK"))
 add("banks", "Thai bank stocks", "หุ้นธนาคารไทย", c_banks, YL("KBANK.BK"))
 add("bond", "Thai 10-yr yield trend", "แนวโน้มบอนด์ยีลด์ไทย 10 ปี", c_bond, "https://www.thaibma.or.th/EN/Market/YieldCurve/Government.aspx")

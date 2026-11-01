@@ -1,6 +1,6 @@
 # Thai Corporate Credit Trends · เทรนด์สินเชื่อธุรกิจไทย
 
-**Live:** https://piyaster11.github.io/thai-credit-trends/
+**Live:** https://piyaster11.github.io/thaicreditradar/
 
 A free, one-page dashboard of **Google Trends (Thailand, last 5 years, weekly)** for words that matter to corporate credit analysts, in **Thai and English**, grouped into five themes: borrower stress, sector demand, macro and rates, credit market, and consumer/SME stress. Built for the Credit Analyst AI Workshop (Section 01 · Google Trends), 4 Nov 2026.
 
@@ -9,7 +9,7 @@ Each theme explains *why a credit analyst cares* and links to the *official sour
 ## Use it
 - Open the live page, or clone and open `index.html` in any browser (no install, no server needed).
 ```bash
-git clone https://github.com/piyaster11/thai-credit-trends
+git clone https://github.com/piyaster11/thaicreditradar
 cd thai-credit-trends
 python3 -m http.server 8000   # optional; then open http://localhost:8000
 ```

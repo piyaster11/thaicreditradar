@@ -13,7 +13,7 @@
    "unit": "% of 5y avg",
    "score": 17.3,
    "asof": "2026-10-18",
-   "src": "https://github.com/piyaster11/thai-credit-trends/blob/main/data/trends.json",
+   "src": "https://github.com/piyaster11/thaicreditradar/blob/main/data/trends.json",
    "weight": 1.5,
    "note_en": "Stress searches, 8-wk avg vs own 5-yr mean (higher = more stress)",
    "note_th": "คำค้นความตึงตัว เฉลี่ย 8 สัปดาห์ เทียบค่าเฉลี่ย 5 ปี (สูง = ตึงตัวมาก)",
