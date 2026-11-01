@@ -10,7 +10,7 @@ Each theme explains *why a credit analyst cares* and links to the *official sour
 - Open the live page, or clone and open `index.html` in any browser (no install, no server needed).
 ```bash
 git clone https://github.com/piyaster11/thaicreditradar
-cd thai-credit-trends
+cd thaicreditradar
 python3 -m http.server 8000   # optional; then open http://localhost:8000
 ```
 

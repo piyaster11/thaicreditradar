@@ -130,7 +130,7 @@ function tryIt(){
 }
 function clone(){
  return `<div class="grid2"><div class="card"><h3 style="margin:0 0 6px">${L('Clone and run it yourself','โคลนไปใช้เอง')}</h3><pre>git clone https://github.com/piyaster11/thaicreditradar
-cd thai-credit-trends
+cd thaicreditradar
 python3 -m http.server 8000   # open http://localhost:8000</pre><p class="note">${L('Or just open index.html in a browser — no server or install needed.','หรือเปิดไฟล์ index.html ในเบราว์เซอร์ได้เลย ไม่ต้องติดตั้งอะไร')}</p></div>
  <div class="card"><h3 style="margin:0 0 6px">${L('Refresh the data / add your own words','อัปเดตข้อมูล / เพิ่มคำของคุณเอง')}</h3><pre>pip install pytrends
 # edit refresh/terms.py to add words
