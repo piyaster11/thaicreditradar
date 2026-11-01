@@ -77,3 +77,7 @@ footer{margin-top:30px;border-top:1px solid var(--line);background:#fff;padding:
 .tip{font-size:12.5px;min-height:20px;color:var(--ink)}
 @media (max-width:820px){.grid2,.grid3,.why,.movers{grid-template-columns:1fr}.hero .sub{font-size:15px}.stat{min-width:0;flex:1 1 40%}}
 @media print{.nav,.seg,.modal{display:none}}
+
+.fg{display:grid;grid-template-columns:minmax(0,360px) minmax(0,1fr);gap:14px}
+@media(max-width:820px){.fg{grid-template-columns:1fr}}
+.fgt{width:100%;border-collapse:collapse;font-size:13.5px}.fgt th{text-align:left;font-size:12px;color:var(--mute);border-bottom:1px solid var(--line);padding:6px}.fgt td{border-bottom:1px solid var(--line);padding:7px 6px;vertical-align:top}
