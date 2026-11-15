@@ -1,7 +1,7 @@
 {
- "score": 30.8,
+ "score": 31.0,
  "band": "Fear",
- "updated": "2026-11-14T13:10+07:00",
+ "updated": "2026-11-15T13:16+07:00",
  "n_ok": 7,
  "n_total": 8,
  "components": [
@@ -24,10 +24,10 @@
    "id": "set",
    "en": "SET index momentum",
    "th": "โมเมนตัมดัชนี SET",
-   "value": -2.18,
+   "value": -1.65,
    "unit": "% vs 125d MA",
-   "score": 36.5,
-   "asof": "2026-11-12",
+   "score": 38.5,
+   "asof": "2026-11-13",
    "src": "https://finance.yahoo.com/quote/TDEX.BK/history/",
    "weight": 1.0,
    "note_en": "SET50 ETF (TDEX, proxy: Yahoo ^SET.BK history unavailable) vs its 125-day average",
