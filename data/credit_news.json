@@ -1,6 +1,27 @@
 {
- "updated": "2026-11-16T06:16:06Z",
+ "updated": "2026-11-17T07:47:45Z",
  "items": [
+  {
+   "title": "ThaiBMA เสนอยกระดับมาตรฐานควบคุมหุ้นกู้เสี่ยงสูง ก.ล.ต. จ่อเคาะเกณฑ์ต้นปี 70",
+   "source": "thestandard.co",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB0Zm9WYW5qNU5mUzBLRVY4SUh5YXJsZFN5UDFVM19lbFB6aUc1V1gwNUlWMXBYTTc4NzdtemRSU0xMRTIyN0VwUE5INFRTMlkxOFZwTnRveVlkbUdmMWdqSWtZOFFJTWFFNFRjbWY5SE4?oc=5",
+   "utc": "2026-11-16T11:20:51Z",
+   "tag": "BONDS"
+  },
+  {
+   "title": "JMT ส่งซิก Q4 สดใส ลุยซื้อหนี้เสียต่อเนื่อง มั่นใจ ECL ผ่านจุดพีก | ข่าวหุ้นธุรกิจ",
+   "source": "LINE TODAY",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQd2xFenM2Z19QVmFKR1hRSkVKSDdlY21vRUsxdkJGMEU1SENncFZ0ekZQbS1DeVBmVVVuajBKZlMyV3ZCY2RCRk9jV2txaDEya2N6RTI2LXV4VW5GbUNWWUltOWJMcVJnVnplemVaYVVWME9neWVLZzNEaDdIaGk1Yw?oc=5",
+   "utc": "2026-11-16T11:02:19Z",
+   "tag": "NPL"
+  },
+  {
+   "title": "Thai EXIM upcoming baht bonds win Fitch AAA rating",
+   "source": "Traders Union",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUi1RcU4xSjlFWUlGcXhjX3FoOFcxTFRfLWNOUWdNOWpWZ3R1WXF3MGtfcG9pTWtXbzVRMmV4QnpOdXNkSEF2WVdnY0IxUlV3OERRcFl4S0twNHZFbFFmd3AzekE4aXhsRkNKeGtKWXNGYkUxLVNFRkQyaUZFNVg3SWVsempXNlNa?oc=5",
+   "utc": "2026-11-16T08:19:30Z",
+   "tag": "RATING"
+  },
   {
    "title": "PROSPECT REIT โชว์ฟอร์มไตรมาส 3/69 อัตราเช่าสุดแกร่ง 97% ชูโครงการใหม่ BFTZ 4 บางปะกง หนุนการเติบโตระยะยาวรับ EEC บูม ด้านทริสฯ ปรับเครดิตเป็น ‘BBB’",
    "source": "TerraBKK",
@@ -9,25 +30,11 @@
    "tag": "RATING"
   },
   {
-   "title": "ICBC (Thai) Leasing debentures win Fitch 'AAA(tha)' rating in Thailand",
-   "source": "Traders Union",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTy0xU3pBVXN6Mld5RGI1bjVGS3FCLTkzREFZY1ZHNzBwa2tJQkZhS1FNb0Y1RWVJb1hURHBPelFSMjM1aGcwMTdKNHJmSi1VeG9XN3R4djVvaEtnOEtuQjhGTkVjNzBvaHNNVDhtcW12UWRiQU1Rd2wtZXZCaWRXandudEluRTJtMmNxQkxyaHdsUTJxQmNteTR3?oc=5",
-   "utc": "2026-11-13T08:21:20Z",
-   "tag": "RATING"
-  },
-  {
-   "title": "JMT ส่งซิก Q4 สดใส ลุยซื้อหนี้เสียต่อเนื่อง มั่นใจ ECL ผ่านจุดพีก | ข่าวหุ้นธุรกิจ",
-   "source": "LINE TODAY",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9CazNraXcwVkVVSENocGJuU3R1cEZQQUt2bXFnbW1tRThoQzBnVlFvdEt4dVI1U1AycThBN0tiU0R5eko2SHp5cy1GT3RKNVpYS2tlVG5R?oc=5",
-   "utc": "2026-11-13T08:00:00Z",
-   "tag": "NPL"
-  },
-  {
-   "title": "Boeing เตรียมปลดพนักงาน 2,500 คน เริ่มแจ้ง ธ.ค.69 เลื่อนแผนฟื้นฟูธุรกิจ | การเงินธนาคาร",
-   "source": "LINE TODAY",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0ycFM4ZXlBOEV2SUNNNVRFT2h5RUYxVHc4a2Q4YVdhSHFDeXpGZFdrSkJydkktMTVvWml0WHVtbS0tZ1U5YV9YM21yRnNEWUp4MWRUYmt3?oc=5",
-   "utc": "2026-11-10T02:33:56Z",
-   "tag": "DEFAULT"
+   "title": "ความเชื่อมั่นผู้บริโภคไทยร่วง น้ำมันแพง-หนี้ครัวเรือนกดกำลังซื้อ วัสดุก่อสร้างพุ่ง",
+   "source": "TNN Thailand",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB3S3JGTHFRRWlyQ1REbTBBcWlmZ1pWRkdEZHNaZXpmV20yY19tdk94N0VDZjEyTHBpV3Q4aFlpb3ZmUW5fVm91ckJyRFRfWXVWRVdXd0d0bFAwOExnTmVz?oc=5",
+   "utc": "2026-11-16T07:12:53Z",
+   "tag": "HH DEBT"
   },
   {
    "title": "ตลาดที่อยู่อาศัยไทยรับอานิสงส์สินเชื่อ PLUS แต่ต้องจับตาความเสี่ยงเศรษฐกิจโลกและหนี้ครัวเรือน",
@@ -44,67 +51,60 @@
    "tag": "BANKS"
   },
   {
-   "title": "Thai Central Bank Chairman Rebukes Slow Reform, SME Credit Slump",
-   "source": "Bloomberg.com",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNFlDUEJIOGpORzVsWktpLU02NVZFaFJUel9fOTgwRGVOSlFXQXgwLVJFb2NTWmQ5eE9HRE9qNjlXbEJpSE9YSnRwcm1ZbVpXNHN5RUZBZGQ1d3VwWGtaNzlVOTAxT0RnMXZQaGZ2VWZpNWh4MlNzckxHNVQ4Q1VqTmxZM21iUXNPWjh4eUtXa3RrNGw5ZUEzLWlVSXR2SzVQYUdXVUZsbFV4X3RDbmdQb2xMTzk?oc=5",
-   "utc": "2026-11-15T02:22:00Z",
-   "tag": "BANKS"
-  },
-  {
-   "title": "Thai central bank chair urges faster reforms",
-   "source": "Briefs Finance",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTFBfOXQtejhpeEpSblZ5dFAxWkVqWFRBYkExQjhLWjFwTkEtaFJpNGFLVUt5aEN1MndMZmUzS0JoOGZzaE02QXhRTU9FX1pZZkdKTWNucWpyRFJ0bThJX0hWNnROZjhMY0NTNzZEUS1mdnB0MW93MUVvdXFUQXdFb1hEcllHc25WTFFfNkFxT2VFZw?oc=5",
-   "utc": "2026-11-14T22:56:47Z",
-   "tag": "BANKS"
-  },
-  {
-   "title": "Bank of Thailand chairman criticizes slow reforms and ineffective SME lending measures",
-   "source": "Pattaya Mail",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUzRITmZKWlJBdUlGbVAweXA3UExrSjdFdm9heXRPMGVrb3R5Mm5jWEpmS3FTaDM1T0ZSVjFuSGl1WWhZbk1hVmdMVF85bHE3YXdmWi1xb1ktTllSc21KSVhEUF9KODAta1Rld0NfWl9HQjBzRW1GVFVwNy1HeWlTZnZiYTY3bHhRWHUwWmt0ZnFQTGJDNlJHWXRHdldFemlOd2JwTzhtbmV5dXJ6ajZGVm9PRjFLQ09RVUlYLXQ2NzhFRTl3WVRsQ3dIX2dLU3d4TGhN?oc=5",
-   "utc": "2026-11-14T19:05:28Z",
-   "tag": "BOT"
-  },
-  {
-   "title": "Thai investigators ask Google and Apple to pull illegal loan apps",
-   "source": "Thaiger",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNR1RXZkpoTnJKQnZrY0hQZHk3Nmo5MkpNV1MxT0FEXzJsbkxYZ1MxTlphMVNFVGM5LTdpUXAzd1lOTVBnMFU1N2lpT3ZWeXRzT3BReVQwYzNqV2g0LWVIT0J5NHB6ODUwSnhnNUp2cF9kV0hrbEd2U2hOTmZMa2I3bG9UTjM0Y29GZ2VFOFlNTEJoOW5TM2lmUG1FeHhyRWlVb3B5eg?oc=5",
-   "utc": "2026-11-14T02:02:24Z",
-   "tag": "BANKS"
-  },
-  {
-   "title": "The Bank of England, the Monetary Authority of Singapore, and the Bank of Thailand: Project Meridian FX APAC",
-   "source": "Bank of England",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcVR4eHdIRUN4cVU4LVRHcGE3Z29yM1hteXVfZ1hRbTJROURUcFp0aDZPcURGaXJBbHlHZ0hjU3hGZ0JrdzRTWGtQSnhsdlJMcGFoYU1jUkhZLVpHVDRNQmRsSl9FTkthMXJZcHVQdl93My1oOG05SFRjRlQtSFp5TU1jZEpYeVktQ2lzTnFwMzlHMWJycDM5YzY0VXZubGxlUVJFYmJ5ckJkeTNyR3JwNTZDZ2E2cFdkZDFmWDhPV1BoUHM?oc=5",
-   "utc": "2026-11-13T09:03:07Z",
-   "tag": "BOT"
-  },
-  {
    "title": "ทำไมคนไทยกู้เงินออนไลน์? เปิดสถิติหนี้ครัวเรือนปี 2569",
    "source": "TNN Thailand",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0ydllsMTVFbmZSUFBNX2g4ZmdvLWI2Z001aHVrZXY3bFdIb0phRkY5TXBYQ3dwcU5xUlRLUUtVekRhdFBkSDBiTWdUQzJoZ1hDVWVrYUJfQVByUzRn?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHSnFHQjBYdElRNUtNd0pHUVV1eldBaGRXUC1QOHFtUnB2T1BUdnNNOXdzQjBtOXc0U1JveUpZNnc0WlZRMjdRQTJfaktPZGNuejZZMU9CcGNBb3M?oc=5",
    "utc": "2026-11-13T08:00:00Z",
    "tag": "HH DEBT"
   },
   {
-   "title": "Bank of Thailand Plans 5 Measures Covering Gold, BNPL",
-   "source": "SME & Entrepreneurship Magazine",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5aMTByeTJBeFlDSkVsc2Iwb3FXRW1jVVg4T2UwdExTSXhpVzNCNngtUVpiQkxfdklhTmFVR19CUkVyeFJKRmtIWlZzMWQyUTAxTUhjTWpuUU1WWmZDenVjYVhxM2dwVkNBVnZ5M01sZG9lekMzNmVyYmpR?oc=5",
-   "utc": "2026-11-13T07:00:48Z",
-   "tag": "BOT"
+   "title": "โซลาร์สร้างหนี้ครัวเรือน",
+   "source": "thairath.co.th",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1jS190RGpGQk5IZUliMXl2NWk2VElhRGNFTndaZWhVa1JvSUpxdDNHdlF2SmtWZHdtc3ljSDZGeFRJc3AyMGJCbUJYblktdndnNnVMVy1PeTNGdi1YQVhlMWFKcFIxcWdvSW1Ud1hyS0JTb2s?oc=5",
+   "utc": "2026-11-10T21:25:00Z",
+   "tag": "HH DEBT"
   },
   {
-   "title": "CGSI ชูแบงก์ไทยแกร่ง ปันผลสูง 5.8% เคาะ KBANK-SCB หุ้นเด่น | ข่าวหุ้นธุรกิจ",
-   "source": "LINE TODAY",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE40dHFoRTZnb2VzWnBsSnIzVWg3RGd2OWE4aGl6dk1FOEVfYXBvcWRjZFl3SHhoV0xJX0ZQU1NieldKdzJxa00tb2VlVjZleGVKMlJCZU9LOURuS0lDQjhpUE9LREc2cjc4em1Gc1VxTVRHU3hmblRvbA?oc=5",
-   "utc": "2026-11-12T04:49:20Z",
-   "tag": "BANKS"
+   "title": "(เพิ่มเติม) BAM ผนึก KTAH ตั้งบริษัทร่วมทุน ลุยธุรกิจบริหารหนี้เสีย เพิ่มทุนแตะ 2 พันลบ.",
+   "source": "efin.finance",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1oNVc5NnV6QlR5M0VYWVpfb1FkanNUSW1vaXhXRHROWVJqSGMxR1Z6WDNja0drd3dpS0NLSzlOTEdfQ0NndDFVTG5feW5EajE0MWJBQXRBczFmSDZEc0F6X1Nn?oc=5",
+   "utc": "2026-11-09T02:17:46Z",
+   "tag": "NPL"
   },
   {
-   "title": "Bank of Thailand says 1% policy rate remains appropriate, leaves door open to future hikes",
+   "title": "Government advances future industries and infrastructure after S&P affirms Thailand’s credit ratings",
    "source": "Pattaya Mail",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNdTgxQk9lZm1GeFplU1lyT0NkTl9KcWYyRE9XTVJoMjg3eWhiZUtQZlRldUZKZkVtSlBRNWlqY2U1LVpLRmdZQVVYbFZpZjJxVnc4S242R3N0SXFUUHJpTGdTcW5zb3p5aUhOREQteldrUGZjX1hKSkFsb1BFZ2xKbHlYSUZlOXRrRENOekNCcW03WDF0Z0RMOVdfM3JEN1JhM2dvVjFYTzhrckxMREJxWjlXV056MGhhRUgtQS1NME5XcXd6UjlEQWxDcWNic28wUnZEQzd3?oc=5",
-   "utc": "2026-11-11T19:07:56Z",
-   "tag": "BOT"
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNR1lSM09YaklydEVvbzcwYTBhRThReTFXUnpBOXAzMTJzMUZnXzNFeEo1V1gyR196UlR4aG5hZmtMZXhjaDlkV0F5R3FVNEdYMFdSaHJJaF9Sa0x5RFZ4WTczbjVMSGdNaXNidnJ6QnhiLXhLTU5CbTc0aTVkc3ZtTWRGbWVfbWk3ZXVzWlVMVExySk11X3J4RHo4UVYyOFNxOG04V0VOLW82Qk1HUUVwaWNxZklWckgtckg5cEM0cHFkUmItOGJqU3U0TnJqOXBocGR2MkhYTnd1VkdWUVRV?oc=5",
+   "utc": "2026-11-07T18:57:38Z",
+   "tag": "RATING"
+  },
+  {
+   "title": "WHAUP เผยทริสเรทติ้งคงอันดับเครดิตที่ระดับ “A-” แนวโน้ม \"คงที่\" สะท้อนภาพธุรกิจที่แข็งแกร่ง",
+   "source": "สำนักข่าวบางกอกทูเดย์",
+   "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxQeDhpVGZwNHREUFU3QnFmV0JCN3p0VWlDSER6Yjk0QW5QbFItenlNLWFFYlRYQzIwVTJ3Y09qN1JJeFVZelg4QnpCRllDeVI2c1dqN3VYSklXdmNCeXEwUWlBWXhtQ1BCMGx3SXBtQmt2N1pyZ2VYUkc0Q0FUcDdxTmhMYVRYNHphZnZWZTNMNWtiSzVIT3hLQ3NHVlhnMTNHMFI3VExUZGYtRklPcjV1ZHFPZlN6STVwNnM4Q25IS1pwV0hkbEI2MW91VnJoSlpacmtZQk11bV9UVzhKUTNPZjN4RlJhWktERjFjVjBVcWNaQUJEckVnVDBQYm1TOGQxOUxDbDl6eXdaazh2cnZoalJzdVhiRDAycHQ5YU9mS2kwNTlWYU1lT2pKaXZvQmJ2bDNpcTNTb3B3aGtLdUVtU3pWNm8?oc=5",
+   "utc": "2026-11-06T16:46:17Z",
+   "tag": "RATING"
+  },
+  {
+   "title": "SAM ย้ำชาวเหนือเป็นหนี้เสียต่ำแสน รีบใช้สิทธิ์! ลดเงินต้น 50% ร่วมโครงการ “ปิดหนี้ไว ไปต่อได้” ก่อนหมดเขตสิ้นปี 69 นี้ | การเงินธนาคาร",
+   "source": "LINE TODAY",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9SRjcyaTEtajg4LWVsSVA1eGZEVFozdVpnVHdTaUxjdkhyeEJGWHBreTRZNVVxTnBkNERHZlRmalFlWkYwM2JlY3NnRXZwd0hjWVR5TW5R?oc=5",
+   "utc": "2026-11-06T11:56:32Z",
+   "tag": "NPL"
+  },
+  {
+   "title": "S&P Affirms Thailand’s BBB+ Rating",
+   "source": "thestandard.co",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83OWZpdnZiN1RxUF82VDgtd1N5Vmh2OFVXOHVCN19DV1R6RWhvLXlvT19DZWxLSi1rUFRrdllmcV9hdzdKTk5Nb25VMGVHTTRwWnJKSnZoRjZsTFJUSHIyb0dGYXNHN0xwRzdwZ0NMV3lqZEs4YVE1U2NOUmNIUms?oc=5",
+   "utc": "2026-11-05T10:08:18Z",
+   "tag": "RATING"
+  },
+  {
+   "title": "S&P maintains Thailand’s credit rating at BBB+",
+   "source": "Thai PBS World",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5YVURPMV9EcTZIRVlTR3BPaGFsQjV1cWtQTmZ2TmF2aWwxUWl1M0I0TDVnV2lLV0pXNGRYeFhCRmxnSHo2WEVRR04xaEdaWV9QaHEwUVlR?oc=5",
+   "utc": "2026-11-05T08:00:00Z",
+   "tag": "RATING"
   }
  ]
 }
